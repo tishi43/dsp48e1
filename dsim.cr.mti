@@ -1,0 +1,15 @@
+D:/tishi/dsp48e1_sim/glbl.v {1 {vlog -work work -novopt -stats=none D:/tishi/dsp48e1_sim/glbl.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module glbl
+
+Top level modules:
+	glbl
+
+} {} {}} D:/tishi/dsp48e1_sim/DSP48E1.v {1 {vlog -work work -novopt -stats=none D:/tishi/dsp48e1_sim/DSP48E1.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module DSP48E1
+
+Top level modules:
+	DSP48E1
+
+} {} {}}
